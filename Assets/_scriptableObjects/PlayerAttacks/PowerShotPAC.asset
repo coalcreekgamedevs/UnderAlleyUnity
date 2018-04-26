@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa49d00d977d4ea3ac80265da3ed565, type: 3}
+  m_Name: PowerShotPAC
+  m_EditorClassIdentifier: 
+  objectName: PowerShot
+  damage: 10
+  percentChanceOfFailure: 10
+  singleEnemyHit: 0
+  hitEffect: {fileID: 1094828940396998, guid: 402bf4c4c6d764b69b072f1f9f8a48f0, type: 2}
+  timingMeter: {fileID: 1755297258414122, guid: e762025cb715445ce99c12d06e6f6b31,
+    type: 2}

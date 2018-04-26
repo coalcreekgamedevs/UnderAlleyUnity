@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8e9c21717fa7489fb2db4972ca6016a, type: 3}
+  m_Name: SingleBasher
+  m_EditorClassIdentifier: 
+  objectName: Enemy Group Scriptable Object
+  moneyOnDefeat: 5
+  enemies:
+  - {fileID: 1587696700043696, guid: 174b4e15ace3d4b0fb60c852ccfd7297, type: 2}
